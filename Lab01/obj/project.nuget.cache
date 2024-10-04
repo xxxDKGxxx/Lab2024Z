@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDfuYhPZpiYx/Msrp4/5NWLeGKmaSPwQcCKUhz54g1/NN5Wr2gOkzvaNK3dI5Wtx9mZ+wpAVCcIFIjDfhGRhTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominik Zieliński\\source\\repos\\Lab01\\Lab01\\Lab01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik Zieliński\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

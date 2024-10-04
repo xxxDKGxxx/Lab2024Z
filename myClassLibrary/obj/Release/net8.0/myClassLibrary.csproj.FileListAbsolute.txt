@@ -1,0 +1,11 @@
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.deps.json
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.dll
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.pdb
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfo.cs
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.dll
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\refint\myClassLibrary.dll
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.pdb
+C:\Users\Dominik Zieliński\source\repos\Lab01\myClassLibrary\obj\Release\net8.0\ref\myClassLibrary.dll
